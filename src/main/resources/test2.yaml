@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active : test2
+server:
+  port: 7775
+X : 2

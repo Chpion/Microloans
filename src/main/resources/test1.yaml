@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active : test1
+server:
+  port: 7770
+X : 4
