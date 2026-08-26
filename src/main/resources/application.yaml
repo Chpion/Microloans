@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: test1
+    active:
   application:
     name: microloansStub
   datasource:
